@@ -19,6 +19,7 @@ utilizando modelos de regresión, series de tiempo, data panel y GARCH.
 |---------|-------------|
 | `Proyecto_Final_Econometria_Financiera.ipynb` | Notebook completo en Google Colab |
 | `Proyecto_Final_Econometria_Financiera.html` | Versión HTML del notebook |
+| `Proyecto_Final_Econometria_Financiera.pdf` | Documento final del proyecto (PDF) |
 | `AI_Prompts_Claude.md` | Prompts de IA utilizados en el desarrollo |
 | `regresion_simple_nvda.png` | Regresión lineal simple — NVDA vs tiempo |
 | `regresion_multiple_nvda.png` | Regresión múltiple — NVDA vs VOO + Volumen + META |
